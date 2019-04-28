@@ -1,1 +1,2 @@
-# BikeBuddyAppStoreMetadata
+# Bike Buddy App Store Metadata
+
